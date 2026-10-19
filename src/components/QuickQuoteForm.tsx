@@ -35,7 +35,7 @@ Contact: ${contactInfo || "Not provided"}
 Interested in: ${service}
 Project Details: ${message || "I would like to request consultation and pricing."}`;
 
-    const url = `https://wa.me/2348032119964?text=${encodeURIComponent(formattedText)}`;
+    const url = `https://wa.me/2349132312934?text=${encodeURIComponent(formattedText)}`;
     window.open(url, "_blank");
   };
 
@@ -64,7 +64,7 @@ Project Details: ${message || "I would like to request consultation and pricing.
 
             <div className="space-y-2.5 pt-3 border-t border-slate-100">
               <a
-                href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I'd like to consult on a project.")}`}
+                href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I'd like to consult on a project.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-start gap-2.5 p-3 rounded-xl bg-emerald-50/80 border border-emerald-200 text-emerald-800 hover:bg-emerald-100 transition-colors shadow-xs"

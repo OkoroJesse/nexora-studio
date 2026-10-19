@@ -52,7 +52,7 @@ export default function TechPage() {
 
           <div className="mt-7 flex flex-wrap items-center justify-center gap-3">
             <a
-              href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I want to discuss a project with your Tech & Creative team.")}`}
+              href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I want to discuss a project with your Tech & Creative team.")}`}
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-xs"

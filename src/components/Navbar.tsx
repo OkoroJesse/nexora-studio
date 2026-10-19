@@ -196,7 +196,7 @@ export default function Navbar() {
             {/* Desktop Quick Actions */}
             <div className="hidden sm:flex items-center gap-2.5">
               <a
-                href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I'm reaching out to inquire about your creative and tech services.")}`}
+                href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I'm reaching out to inquire about your creative and tech services.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-3.5 py-2 text-xs font-semibold text-emerald-700 bg-emerald-50 border border-emerald-200 hover:bg-emerald-100 rounded-xl transition-all shadow-sm"
@@ -217,7 +217,7 @@ export default function Navbar() {
             {/* Mobile Menu Button */}
             <div className="flex items-center gap-2 lg:hidden">
               <a
-                href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I'd like to make an inquiry.")}`}
+                href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I'd like to make an inquiry.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="p-2 text-emerald-700 bg-emerald-50 border border-emerald-200 rounded-xl"
@@ -328,7 +328,7 @@ export default function Navbar() {
 
             <div className="pt-6 border-t border-slate-200 space-y-2.5">
               <a
-                href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I want to talk about a project.")}`}
+                href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I want to talk about a project.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full flex items-center justify-center gap-2 py-3 rounded-xl bg-emerald-600 text-white font-semibold text-sm shadow-sm"

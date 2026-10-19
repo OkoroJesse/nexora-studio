@@ -54,11 +54,11 @@ export const STUDIO_INFO = {
   tagline: "Multidisciplinary Creative, Technology & Business Studio",
   heroHeadline: "Where Visionary Design Meets Engineered Precision",
   heroSubheadline: "Nexora Studio is an umbrella creative and business studio delivering world-class digital products, web development, UI/UX, graphic design, and commercial printing services.",
-  whatsappNumber: "+2348032119964", // Referenced from provided print/graphics assets
-  whatsappDisplay: "+234 803 211 9964",
-  email: "hello@nexorastudio.com",
-  phone: "+234 803 211 9964",
-  secondaryPhone: "+234 702 655 1397",
+  whatsappNumber: "+2349132312934",
+  whatsappDisplay: "+234 913 231 2934",
+  email: "justiceimhanbor20@gmail.com",
+  phone: "+234 913 231 2934",
+  secondaryPhone: "+234 909 261 0980",
   operatingHours: "Monday - Saturday: 8:00 AM - 6:00 PM WAT",
   stats: [
     { label: "Core Pillars", value: "4 Disciplines" },
@@ -444,8 +444,8 @@ export const REAL_ESTATE_INFO = {
   umbrellaParent: "Nexora Studio",
   logo: "/images/properties/just-propertiez-logo.png",
   description: "The dedicated real estate, land sales, luxury shortlet, and property management division of Nexora Studio.",
-  phone: "+234 803 211 9964",
-  secondaryPhone: "+234 702 655 1397",
+  phone: "+234 913 231 2934",
+  secondaryPhone: "+234 909 261 0980",
 };
 
 export const REAL_ESTATE_SERVICES: RealEstateService[] = [
@@ -646,8 +646,8 @@ export const AUTO_INFO = {
   umbrellaParent: "Nexora Studio",
   logo: "/images/cars/just-autos-logo.png",
   description: "The dedicated automobile and car deals division of Nexora Studio dealing on all kinds of cars for sale and rentage, brand new vehicles, and direct Belgium imports.",
-  phone: "+234 803 211 9964",
-  secondaryPhone: "+234 702 655 1397",
+  phone: "+234 913 231 2934",
+  secondaryPhone: "+234 909 261 0980",
 };
 
 export const AUTO_SERVICES: AutoService[] = [

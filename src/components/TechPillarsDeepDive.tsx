@@ -141,7 +141,7 @@ export default function TechPillarsDeepDive() {
               {/* Card Footer Actions */}
               <div className="p-3.5 sm:p-4 pt-0 border-t border-slate-100 mt-2 space-y-1.5">
                 <a
-                  href={`https://wa.me/2348032119964?text=${encodeURIComponent(`Hello Nexora Studio, I want to inquire about: ${service.title}`)}`}
+                  href={`https://wa.me/2349132312934?text=${encodeURIComponent(`Hello Nexora Studio, I want to inquire about: ${service.title}`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-1.5 py-1.5 px-2.5 rounded-lg bg-emerald-50 hover:bg-emerald-100 border border-emerald-200 text-emerald-700 text-[11px] font-semibold transition-colors"
@@ -233,7 +233,7 @@ export default function TechPillarsDeepDive() {
 
               <div className="pt-4 border-t border-slate-100 flex flex-wrap gap-2">
                 <a
-                  href={`https://wa.me/2348032119964?text=${encodeURIComponent(`Hello Nexora Studio, I'm ready to discuss: ${activeModalService.title}`)}`}
+                  href={`https://wa.me/2349132312934?text=${encodeURIComponent(`Hello Nexora Studio, I'm ready to discuss: ${activeModalService.title}`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex-1 flex items-center justify-center gap-2 py-2.5 px-4 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-sm"

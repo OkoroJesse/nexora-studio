@@ -145,7 +145,7 @@ export default function AutoListingsGrid() {
         {/* Footnote */}
         <div className="mt-8 text-center">
           <a
-            href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Just Auto's / Nexora Studio, I'm inquiring about your available cars for sale / rentage.")}`}
+            href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Just Auto's / Nexora Studio, I'm inquiring about your available cars for sale / rentage.")}`}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 text-xs font-semibold text-amber-800 hover:text-amber-900 bg-amber-50 border border-amber-200 px-3.5 py-1.5 rounded-lg transition-colors shadow-xs"
@@ -251,7 +251,7 @@ export default function AutoListingsGrid() {
               {/* Action Buttons */}
               <div className="pt-3 border-t border-slate-100 space-y-2">
                 <a
-                  href={`https://wa.me/2348032119964?text=${encodeURIComponent(`Hello Just Auto's / Nexora Studio, I'm reaching out regarding: "${selectedListing.title}" (${selectedListing.categoryLabel}). Can we discuss details?`)}`}
+                  href={`https://wa.me/2349132312934?text=${encodeURIComponent(`Hello Just Auto's / Nexora Studio, I'm reaching out regarding: "${selectedListing.title}" (${selectedListing.categoryLabel}). Can we discuss details?`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-1.5 py-2 px-3 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-xs"

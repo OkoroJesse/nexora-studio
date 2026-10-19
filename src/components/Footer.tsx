@@ -45,7 +45,7 @@ export default function Footer() {
 
             <div className="space-y-2 pt-1">
               <a
-                href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I'd like to consult on a project.")}`}
+                href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I'd like to consult on a project.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-3.5 py-2 rounded-xl bg-emerald-50 border border-emerald-200 text-emerald-800 hover:bg-emerald-100 text-xs font-semibold transition-colors shadow-xs"

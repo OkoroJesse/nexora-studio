@@ -135,7 +135,7 @@ export default function PortfolioGallery() {
         {/* Footnote */}
         <div className="mt-8 text-center">
           <a
-            href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Nexora Studio, I saw your portfolio and would like to request a quote.")}`}
+            href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Nexora Studio, I saw your portfolio and would like to request a quote.")}`}
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-1.5 text-xs font-semibold text-emerald-700 hover:text-emerald-800 bg-emerald-50 border border-emerald-200 px-3.5 py-1.5 rounded-lg transition-colors shadow-xs"
@@ -245,7 +245,7 @@ export default function PortfolioGallery() {
               {/* Action Buttons */}
               <div className="pt-3 border-t border-slate-100 space-y-2">
                 <a
-                  href={`https://wa.me/2348032119964?text=${encodeURIComponent(`Hello Nexora Studio, I'm interested in work similar to: "${selectedItem.title}". Could we discuss details?`)}`}
+                  href={`https://wa.me/2349132312934?text=${encodeURIComponent(`Hello Nexora Studio, I'm interested in work similar to: "${selectedItem.title}". Could we discuss details?`)}`}
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-full flex items-center justify-center gap-1.5 py-2 px-3 rounded-lg bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-xs"

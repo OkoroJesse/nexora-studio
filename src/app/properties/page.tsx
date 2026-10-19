@@ -63,7 +63,7 @@ export default function PropertiesPage() {
             {/* Quick Actions */}
             <div className="mt-6 flex flex-wrap items-center justify-center gap-2.5">
               <a
-                href={`https://wa.me/2348032119964?text=${encodeURIComponent("Hello Just_propertiez, I'm reaching out regarding real estate and property services.")}`}
+                href={`https://wa.me/2349132312934?text=${encodeURIComponent("Hello Just_propertiez, I'm reaching out regarding real estate and property services.")}`}
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-xl bg-emerald-600 hover:bg-emerald-700 text-white font-semibold text-xs transition-colors shadow-xs"
